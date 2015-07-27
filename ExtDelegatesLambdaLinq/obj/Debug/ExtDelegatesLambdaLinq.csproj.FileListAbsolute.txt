@@ -1,0 +1,12 @@
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\bin\Debug\ExtDelegatesLambdaLinq.exe.config
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\obj\Debug\ExtDelegatesLambdaLinq.csprojResolveAssemblyReference.cache
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\bin\Debug\ExtDelegatesLambdaLinq.exe
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\bin\Debug\ExtDelegatesLambdaLinq.pdb
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\obj\Debug\ExtDelegatesLambdaLinq.exe
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\obj\Debug\ExtDelegatesLambdaLinq.pdb
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\bin\Debug\ExtDelegatesLambdaLinq.exe.config
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\obj\Debug\ExtDelegatesLambdaLinq.exe
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\obj\Debug\ExtDelegatesLambdaLinq.pdb
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\bin\Debug\ExtDelegatesLambdaLinq.exe
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\bin\Debug\ExtDelegatesLambdaLinq.pdb
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\ExtDelegatesLambdaLinq\obj\Debug\ExtDelegatesLambdaLinq.csprojResolveAssemblyReference.cache

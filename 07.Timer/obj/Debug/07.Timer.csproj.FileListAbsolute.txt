@@ -1,0 +1,6 @@
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\07.Timer\bin\Debug\07.Timer.exe.config
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\07.Timer\obj\Debug\07.Timer.csprojResolveAssemblyReference.cache
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\07.Timer\bin\Debug\07.Timer.exe
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\07.Timer\bin\Debug\07.Timer.pdb
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\07.Timer\obj\Debug\07.Timer.exe
+C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\07.Timer\obj\Debug\07.Timer.pdb
