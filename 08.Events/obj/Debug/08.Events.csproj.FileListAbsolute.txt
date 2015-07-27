@@ -1,6 +1,0 @@
-C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\08.Events\bin\Debug\08.Events.exe.config
-C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\08.Events\bin\Debug\08.Events.exe
-C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\08.Events\bin\Debug\08.Events.pdb
-C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\08.Events\obj\Debug\08.Events.csprojResolveAssemblyReference.cache
-C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\08.Events\obj\Debug\08.Events.exe
-C:\Users\FVGUNO\MyCoding\AcademyHomeworks\03.Extensions-Delegates-Lambda-Linq\08.Events\obj\Debug\08.Events.pdb
